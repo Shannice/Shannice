@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shannice
 - 👀 I’m interested in coding, cybersecurity, AI and Machine Learning.
-- 🌱 I’m currently learning Ruby, Javascript and Python.
+- 🌱 I’m currently learning Java, Javascript, React.js, Typescript and Python.
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me on Discord @LadyWhistledown
 
